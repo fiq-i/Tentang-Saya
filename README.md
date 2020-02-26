@@ -1,1 +1,1 @@
-### [Info](.info.txt)
+### [Info](info.txt)
